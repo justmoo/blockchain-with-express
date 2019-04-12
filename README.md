@@ -3,9 +3,9 @@
 this is the third project BND from udacity 
 
 ## how to setup 
-1- Download the project or clone it.
-2- Run command npm install to install the project dependencies.
-3-Run command node __app.js__ in the root directory.
+1- Download the project or clone it.<br>
+2- Run command npm install to install the project dependencies.<br>
+3-Run command node __app.js__ in the root directory.<br>
 
 
 ## Testing the project
